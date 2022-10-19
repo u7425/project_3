@@ -51,7 +51,7 @@ body {
 }
 
 h1 {
-  font-family: Verdana, Sans-Serif;
+  font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
   font-size: 150px;
@@ -59,7 +59,7 @@ h1 {
 }
 
 h2 {
-  font-family: Verdana, Sans-Serif;
+  font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
   font-size: 100px;
@@ -67,7 +67,7 @@ h2 {
 }
 
 h4 {
-  font-family: Verdana, Sans-Serif;
+  font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
   font-size: 50px;
@@ -81,4 +81,9 @@ p {
 
 ul li{
   list-style-type: square;
+}
+
+img{
+  outline-color: rgb(0, 139, 139);
+  outline-width: 5px;
 }
