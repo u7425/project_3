@@ -116,7 +116,5 @@ ul {
 }
 
 img { 
-  outline-color: rgb(0, 139, 139);
-  outline-width: 5px;
-  margin: 10x;
+  border: 8px solid rgb(0, 139, 139);
 }
