@@ -54,24 +54,24 @@ h1 {
   font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
-  font-size: 150px;
-  margin: 50px;
+  font-size: 30px;
+  margin: 20px;
 }
 
 h2 {
   font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
-  font-size: 100px;
-  margin: 20px;
+  font-size: 20px;
+  margin: 10px;
 }
 
 h4 {
   font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
-  font-size: 50px;
-  margin: 20px;
+  font-size: 20px;
+  margin: 5px;
 }
 
 p {
@@ -79,7 +79,7 @@ p {
   color: black;
 }
 
-ul li {
+ul {
   list-style-type: square;
 }
 
