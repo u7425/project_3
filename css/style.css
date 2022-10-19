@@ -79,11 +79,18 @@ p {
   color: black;
 }
 
-ul li{
+ul li {
   list-style-type: square;
 }
 
-img{
+img { 
   outline-color: rgb(0, 139, 139);
   outline-width: 5px;
+  margin: 50px;
+}
+
+iframe {
+  outline-color: rgb(0, 139, 139);
+  outline-width: 5px;
+  margin: 50px;
 }
