@@ -1,13 +1,13 @@
 #main-navbar {
   background-color: rgb(32, 178, 170);
-  border: 10px solid rgb(0, 139, 139);
+  border: 20px solid rgb(0, 139, 139);
   overflow: hidden;
   text-align: center;
 }
 
 #main-navbar ul {
   position: relative;
-  list-style-type: none;
+//  list-style-type: none;
   margin: 0;
   padding: 0;
   display: block;
