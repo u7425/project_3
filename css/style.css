@@ -30,7 +30,7 @@
   text-align: center;
   display: block;
   padding: 20px 20px;
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
@@ -39,6 +39,23 @@
   text-decoration: underline overline;
 }
 
-section ul {
+body{
+  background-image: url("images/space.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-color: rgb(224, 255, 255);
+}
+
+h1 {
+  font-family: Verdana, Sans-Serif;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+ul {
   list-style-type: square;
 }
