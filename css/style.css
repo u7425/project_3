@@ -55,23 +55,24 @@ h1 {
   color: black;
   font-weight: bold;
   font-size: 30px;
-  margin: 20px;
+  background: rgb(32, 178, 170);
+  border: 5px solid rgb(0, 139, 139);
+  width: 23%;
+  padding: 10px;
 }
 
 h2 {
   font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
-  font-size: 20px;
-  margin: 10px;
+  font-size: 25x;
 }
 
 h4 {
   font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
-  font-size: 20px;
-  margin: 5px;
+  font-size: 15px
 }
 
 p {
@@ -81,16 +82,17 @@ p {
 
 ul {
   list-style-type: square;
+  font-size: 18px;
 }
 
 img { 
   outline-color: rgb(0, 139, 139);
   outline-width: 5px;
-  margin: 50px;
+  margin: 10x;
 }
 
 iframe {
   outline-color: rgb(0, 139, 139);
   outline-width: 5px;
-  margin: 50px;
+  margin: 10px;
 }
