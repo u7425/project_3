@@ -30,8 +30,10 @@
 #navbar-container ul li a {
   text-align: center;
   display: block;
-  padding: 20px 20px;
+  padding: 15px 20px;
   color: black;
+  font-weight: bold;
+  font-size: 20px;
   text-decoration: none;
 }
 
@@ -50,15 +52,37 @@ body {
   background-color: rgb(224, 255, 255);
 }
 
-h1 {
+.resume_title {
   font-family: verdana, sans-serif;
   color: black;
   font-weight: bold;
   font-size: 30px;
   background: rgb(32, 178, 170);
   border: 5px solid rgb(0, 139, 139);
-  width: 23%;
   padding: 10px;
+  width: 23%
+}
+
+.drawing_title {
+  font-family: verdana, sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  background: rgb(32, 178, 170);
+  border: 5px solid rgb(0, 139, 139);
+  padding: 10px;
+  width: 9%
+}
+
+.games_title {
+  font-family: verdana, sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  background: rgb(32, 178, 170);
+  border: 5px solid rgb(0, 139, 139);
+  padding: 10px;
+  width: 14%
 }
 
 h2 {
@@ -92,7 +116,5 @@ img {
 }
 
 iframe {
-  outline-color: rgb(0, 139, 139);
-  outline-width: 5px;
-  margin: 10px;
+  border: 8px solid rgb(0, 139, 139);
 }
