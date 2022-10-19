@@ -52,11 +52,33 @@ body {
 
 h1 {
   font-family: Verdana, Sans-Serif;
-  text-align: center;
   color: black;
   font-weight: bold;
+  font-size: 150px;
+  margin: 50px;
 }
 
-ul {
+h2 {
+  font-family: Verdana, Sans-Serif;
+  color: black;
+  font-weight: bold;
+  font-size: 100px;
+  margin: 20px;
+}
+
+h4 {
+  font-family: Verdana, Sans-Serif;
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+  margin: 20px;
+}
+
+p {
+  font-family: Verdana, Sans-Serif;
+  color: black;
+}
+
+ul li{
   list-style-type: square;
 }
