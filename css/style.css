@@ -42,10 +42,8 @@
   text-decoration: underline overline;
 }
 
-body{
-  background-image: url("images/space.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+* {
+  margin: 10px;
 }
 
 body {
@@ -89,6 +87,10 @@ body {
   text-decoration: underline;
 }
 
+.videos {
+  border: 8px solid rgb(0, 139, 139);
+}
+
 h2 {
   font-family: verdana, sans-serif;
   color: black;
@@ -117,8 +119,4 @@ img {
   outline-color: rgb(0, 139, 139);
   outline-width: 5px;
   margin: 10x;
-}
-
-.videos {
-  border: 8px solid rgb(0, 139, 139);
 }
