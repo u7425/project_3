@@ -122,5 +122,8 @@ ul {
 
 img { 
   border: 8px solid rgb(0, 139, 139);
-  float: left;
+}
+
+.drawings {
+  float: left; 
 }
