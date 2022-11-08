@@ -61,6 +61,7 @@ body {
   padding: 10px;
   width: 400px;
   text-align: center;
+  position: relative;
 }
 
 .drawing_title {
@@ -73,6 +74,7 @@ body {
   padding: 10px;
   width: 160px;
   text-align: center;
+  position: relative;
 }
 
 .games_title {
@@ -85,6 +87,7 @@ body {
   padding: 10px;
   width: 250px;
   text-align: center;
+  position: relative;
 }
 
 .games {
@@ -100,6 +103,7 @@ h2 {
   color: black;
   font-weight: bold;
   font-size: 25px;
+  position: relative;
 }
 
 h4 {
