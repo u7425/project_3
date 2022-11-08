@@ -59,7 +59,8 @@ body {
   background: rgb(32, 178, 170);
   border: 5px solid rgb(0, 139, 139);
   padding: 10px;
-  width: 23%
+  width: 400px;
+  text-align: center;
 }
 
 .drawing_title {
@@ -70,7 +71,8 @@ body {
   background: rgb(32, 178, 170);
   border: 5px solid rgb(0, 139, 139);
   padding: 10px;
-  width: 9%
+  width: 160px;
+  text-align: center;
 }
 
 .games_title {
@@ -81,7 +83,8 @@ body {
   background: rgb(32, 178, 170);
   border: 5px solid rgb(0, 139, 139);
   padding: 10px;
-  width: 14%
+  width: 250px;
+  text-align: center;
 }
 
 .games {
@@ -109,6 +112,7 @@ h4 {
 p {
   font-family: Verdana, Sans-Serif;
   color: black;
+  padding: 20px;
 }
 
 ul {
