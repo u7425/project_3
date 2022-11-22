@@ -3,7 +3,7 @@ function initMap() {
     center: {lat: 41.871193, lng: -87.618983},
     zoom: 13,
   });
-}
+};
 
 var marker1 = new google.maps.Marker({
   position: {lat: 41.871193, lng: -87.618983},
