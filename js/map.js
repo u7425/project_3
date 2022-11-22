@@ -33,6 +33,6 @@ function initMap() {
   google.maps.event.addListener (marker2, 'click', function() {
     info2.open(map, marker2);
   });
-};
+}
 
 window.initMap = initMap;
