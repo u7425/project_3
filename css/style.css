@@ -172,7 +172,7 @@ img {
   background: rgb(32, 178, 170);
 }
 
-@media (min-width: 700px){
+@media (min-width: 1000px){
   .resume_title{
     font-family: 'Anton', cursive;
     background: rgb(32, 180, 200);
@@ -182,7 +182,7 @@ img {
   }
 }
 
-@media (min-width: 1000px){
+@media (min-width: 700px){
   .awards ul{
     font-family: 'Anton';
     font-size: 18px;
