@@ -127,3 +127,17 @@ ul {
 img { 
   border: 8px solid rgb(0, 139, 139);
 }
+
+#wrapper{
+  width: 750px;
+  height: 540px;
+  background-color: rgb(32, 178, 170);
+  margin: auto;
+}
+
+#map{
+  width: 700px;
+  height: 540px;
+  background-color: #ccc;
+  margin: auto; 
+}
