@@ -141,3 +141,23 @@ img {
   background-color: #ccc;
   margin: auto; 
 }
+
+.slider div{
+  background-color: rgb(32, 178, 170);
+}
+
+.bx-viewport {
+  background-color: rgb(0, 139, 139);
+}
+
+.slide {
+  background-color: rgb(32, 178, 170);
+}
+
+.bx-clone{
+  background-color: rgb(32, 178, 170);
+}
+
+.bx-pager.bx-default-pager a:hover{
+  background: rgb(32, 178, 170);
+}
