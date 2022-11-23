@@ -144,10 +144,12 @@ img {
 
 .slider div{
   background-color: rgb(32, 178, 170);
+  margin: auto;
 }
 
 .bx-viewport {
   background-color: rgb(0, 139, 139);
+  margin: auto;
 }
 
 .bx-wrapper {
@@ -155,8 +157,8 @@ img {
   margin: auto;
 }
 
-.slide {
-  background-color: rgb(32, 178, 170);
+.slider {
+  margin: auto;
 }
 
 .bx-clone{
