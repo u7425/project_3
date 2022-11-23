@@ -150,6 +150,11 @@ img {
   background-color: rgb(0, 139, 139);
 }
 
+.bx-wrapper {
+  width: 1000px;
+  margin: auto;
+}
+
 .slide {
   background-color: rgb(32, 178, 170);
 }
