@@ -1,16 +1,3 @@
-#wrapper{
-  width: 750px;
-  height: 570px;
-  background-color: rgb(32, 178, 170;
-}
-
-#map{
-  width: 720px;
-  height: 540px;
-  background-color: #ccc;
-  margin: 30px auto; 
-}
-
 #main-navbar {
   background-color: rgb(32, 178, 170);
   border: 10px solid rgb(0, 139, 139);
